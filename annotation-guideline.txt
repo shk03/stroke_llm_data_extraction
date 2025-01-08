@@ -1,0 +1,52 @@
+Allgemeine Vorgaben
+
+1. Keine Interpretation der Befunde
+- Ein Befund ist nur dann als Pathologie zu werten, wenn diese ausdrücklich oder sinngemäß klar benannt ist.
+
+Beispiele:
+Nicht zu werten:
+- Hypodensität im Parenchym ist nicht gleichbedeutend mit Infarktdemarkation
+- "Verkalkungen" oder "Plaques" sind nicht gleichbedeutend mit Stenose
+- "Intraluminaler Thrombus" ist nicht gleichbedeutend mit Stenose
+- "Verlust der kortikomedullären Differenzierbarkeit" ist nicht gleichbedeutend mit Infarktdemarkation
+
+Zu werten:
+- "Kontrastmittelabbruch", "Gefäßabbruch", "fehlende Kontrastierung" ist gleichbedeutend mit Gefäßverschluss.
+- Liegt der ASPECTS-Score unter 10, ist dies als Infarktdemarkation zu werten.
+
+2. Angaben zur diagnostischen Sicherheit
+- Bei positiver Tendenz (z.B. "a.e.", "V.a.", "wahrscheinlich") wird der Befund mit "Ja" gewertet.
+- Bei negativer Tendenz (z.B. "unwahrscheinlich", "nachrangig") wird der Befund mit "Nein" gewertet.
+
+3. Widersprüche
+- Bei Widersprüchen zwischen den Abschnitten "Befund" und "Beurteilung" wird die Beurteilung als maßgeblich angesehen und der Befund entsprechend gewertet.
+
+4. Ausschluss früherer Befunde und anamnestischer Angaben
+- Vorherige Befunde werden nicht als aktuelle Befunde gewertet.
+- Anamnestische Angaben und klinische Informationen werden nicht berücksichtigt.
+
+5. Lokalisation von Befunden
+Ein Befund wird als vorhanden gewertet, wenn mindestens eine Lokalisation betroffen ist. Beispielsweise wird "Stenose" mit "Ja" bewertet, wenn eine Stenose in mindestens einer Lokalisation beschrieben wird.
+
+---
+
+Spezifische Vorgaben
+
+1. Infarktdemarkation
+- "Infarktdemarkation" umfasst nur frische Veränderungen. Alte Infarkte oder postischämische Veränderungen werden nicht gezählt.
+
+2. Aneurysma
+- "Aneurysma" bezieht sich ausschließlich auf echte, intrakranielle Aneurysmen. Aortenaneurysmen oder Pseudoaneurysmen werden nicht als Aneurysma gewertet.
+
+3. Ischämietypisches Perfusionsdefizit
+- Eine Tmax-Verzögerung gilt als Perfusionsdefizit.
+- Perfusionsdefizite erfordern kein Mismatch.
+- Nur Perfusionsdefizite, die im Befundtext auf eine Ischämie zurückgeführt werden, werden gezählt. Perfusionsdefizite durch Artefakte oder sonstige Ursachen werden nicht gezählt.
+
+4. Stenose / Verschluss
+- In Fällen, in denen eine hochgradige Stenose oder ein Verschluss angegeben werden ("Stenose/Verschluss"), wird “Stenose” als vorhanden und “Verschluss” als “Nein” gewertet.
+- Gefäßirregularitäten werden nicht als Stenose gewertet.
+- Mit Gefäßverschluss sind ausschließlich arterielle Verschlüsse gemeint (keine Sinus- oder Hirnvenenthrombosen).
+- Vorbestehende Verschlüsse gelten ebenfalls als Gefäßverschluss.
+
+Die restlichen Befunde sollen entsprechend der allgemeinen Vorgaben bewertet werden.
